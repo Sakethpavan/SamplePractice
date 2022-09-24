@@ -1,0 +1,21 @@
+.container{
+    width: 500px;
+    padding-top: 100px;
+    padding-left: 42px;
+    border-color: blue;
+    text-align: center;
+    background-color: rgb(216, 223, 223);
+}
+.btn{
+    width: 100px;
+}
+.abcd{
+    text-align: center;
+}
+p{
+    padding-top: 130px;
+    text-align: center;
+    font-size: large;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
