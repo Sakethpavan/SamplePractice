@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
+import { HeaderComponent } from './header/header.component';
 
 const routes: Routes = [
   { path: '', title: 'Login', component: LoginComponent },
@@ -17,6 +18,7 @@ const routes: Routes = [
     AppComponent,
     LoginComponent,
     SignupComponent,
+    HeaderComponent,
   ],
   imports: [
     BrowserModule,
